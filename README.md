@@ -40,8 +40,8 @@ O projeto é composto pelas seguintes páginas:
 - `index.html`: Página Inicial
 - `sobre.html`: Informações sobre o local
 - `pontos.html`: Pontos Turísticos
-- `restaurantes.html`: Restaurantes e Comidas Típicas ([Como criar um README no GitHub para Melhorar seu Perfil?](https://www.hashtagtreinamentos.com/como-criar-um-readme-no-github-cd?utm_source=chatgpt.com))
-
+- `restaurantes.html`: Restaurantes e Comidas Típicas
+  
 As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão definidos em `/css/style.css`.
 
 ---
@@ -70,7 +70,7 @@ As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão
 
 ## 🚀 Como Executar
 
-1. Clone o repositório: ([Como-montar-seu-README/README.md at master - GitHub](https://github.com/Epaminondaslage/Como-montar-seu-README/blob/master/README.md?utm_source=chatgpt.com))
+1. Clone o repositório: 
    ```
    git clone https://github.com/seu-usuario/onde-quero-conhecer.git
    ```
@@ -84,12 +84,6 @@ As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão
 
 ## 👨‍💻 Autor
 
-- **Seu Nome** - [@seu-usuario](https://github.com/andersonqxd)
+- [@andersonqxd](https://github.com/andersonqxd)
 
----
 
-*Este README foi estruturado com base em boas práticas recomendadas para documentação de projetos. Para mais informações sobre como criar um README eficaz, consulte o artigo da Alura sobre o assunto.* 
-
----
-
-Se desejar, posso fornecer um modelo básico de uma das páginas em HTML para ajudá-lo a iniciar o desenvolvimento. Gostaria disso? 
