@@ -62,7 +62,7 @@ As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão
 
 ### Restaurantes e Comidas Típicas
 
-![Restaurantes e Comidas Típicas](./images/restaurantes.png)
+![Restaurantes e Comidas Típicas](./images/page-restaurantes.png)
 
 *Nota: Certifique-se de que as imagens acima estejam corretamente nomeadas e localizadas na pasta `/images`.*
 
