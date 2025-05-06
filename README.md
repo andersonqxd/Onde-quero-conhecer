@@ -54,11 +54,11 @@ As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão
 
 ### Sobre
 
-![Sobre](./images/sobre.png)
+![Sobre](./img-telas-readme/sobre.png)
 
 ### Pontos Turísticos
 
-![Pontos Turísticos](./images/pontos-turisticos.png)
+![Pontos Turísticos](./img-telas-readme/pontos-turisticos.png)
 
 ### Restaurantes e Comidas Típicas
 
