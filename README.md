@@ -85,5 +85,7 @@ As imagens utilizadas estão armazenadas na pasta `/images`, e os estilos estão
 ## 👨‍💻 Autor
 
 - [@andersonqxd](https://github.com/andersonqxd)
+- [@SandraVasconcelos-74](https://github.com/SandraVasconcelos-74)
+- [@LysandreAlef](https://github.com/LysandreAlef)
 
 
